@@ -1,0 +1,30 @@
+{
+  "name": "nl.madebymark.share",
+  "version": "0.1.1",
+  "description": "Share",
+  "cordova": {
+    "id": "nl.madebymark.share",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjva/-nl.madebymark.share.git"
+  },
+  "keywords": [
+    "share",
+    "facebook",
+    "twitter",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "jva",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/devjva/-nl.madebymark.share/issues"
+  },
+  "homepage": "https://github.com/devjva/-nl.madebymark.share#readme"
+}
